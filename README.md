@@ -16,7 +16,7 @@ Run the development server:
 npm run dev
 ```
 
-The application will be available at the address printed in the terminal (usually `http://localhost:5173`).
+Open http://localhost:5173 to view the application.
 
 ## Project Structure
 
